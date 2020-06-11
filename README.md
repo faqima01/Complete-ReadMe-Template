@@ -1,6 +1,6 @@
 # Title like, Complete ReadMe Template
 
-A brief explanation of the project here. Keep it short, 3-5 sentences! If you want this handy, just fork it. Note that this template is written on Markdown (GitHub flavor). If you needed a quick refresher on Markdown, visit this great [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
+A brief explanation of the project here. Keep it short, 3-5 sentences! If you want this handy, just fork it. Note that this template is written on Markdown (GitHub flavor). If you needed a quick refresher on Markdown, visit this great [cheatsheet](https://www.markdownguide.org/cheat-sheet/). Also, feel free to submit pull request if you want to suggest improvements. 
 
 ## Installation
 
